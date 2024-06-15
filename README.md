@@ -1,4 +1,4 @@
-# Student Management System
+# Student Registration System
 
 A simple Spring Boot application to manage student data using RESTful APIs, Java, and MySQL.
 
